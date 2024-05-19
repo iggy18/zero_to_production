@@ -1,6 +1,6 @@
 TODO:
 
-- [ ] make it deploy
+- [x] make it deploy
 - [ ] scaffold basic UI with mock data
 - [ ] set up a database
 - [ ] add authentication
